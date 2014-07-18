@@ -1,0 +1,37 @@
+
+body {
+  background-image: url("map.jpg");
+}
+h1 {
+  font-family: "helvetica";
+  font-weight: normal;
+  font-size: 50px;
+  border-style: outset;
+  text-align: center;
+  background-image: url("img.jpg");
+  width: 35%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+  color: white;
+  text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+  border-color: black
+
+  
+
+}
+
+p {
+  font-family: "helvetica";
+  font-size: 125%;
+  border-style: solid;
+  text-align: center;
+  background-color: white;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  color: #575757;
+  border-color: black
+  
+}
